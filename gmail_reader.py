@@ -99,3 +99,5 @@ if __name__ == "__main__":
         print(f"SUBJECT : {email['subject']}")
         print(f"BODY    : {email['body'][:150]}...\n")
         print("-" * 70)
+
+        
